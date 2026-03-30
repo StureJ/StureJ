@@ -5,7 +5,7 @@
 
 - 🌱 Interested in **Development, Programming**
 
-- 🤝 Collaboration **A lot of recent projects are private due to sensitive information. Sorry 🥲**
+- 🤝 **A lot of recent projects are private due to sensitive information. Sorry 🥲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
